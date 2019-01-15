@@ -1,0 +1,43 @@
+Item.createItem("item_helm_crystal_black", "helm crystal black", {name: "item_helm_crystal_black", meta: 0}, {stack: 1});
+Item.createItem("item_helm_crystal_blue", "helm crystal blue", {name: "item_helm_crystal_blue", meta: 0}, {stack: 1});
+Item.createItem("item_helm_crystal_green", "helm crystal green", {name: "item_helm_crystal_green", meta: 0}, {stack: 1});
+Item.createItem("item_helm_crystal_light_blue", "helm crystal light blue", {name: "item_helm_crystal_light_blue", meta: 0}, {stack: 1});
+Item.createItem("item_helm_crystal_red", "helm crystal red", {name: "item_helm_crystal_red", meta: 0}, {stack: 1});
+Item.createItem("item_helm_crystal_white", "helm crystal white", {name: "item_helm_crystal_white", meta: 0}, {stack: 1});
+Item.createItem("item_helm_emerald", "helm emerald", {name: "item_helm_emerald", meta: 0}, {stack: 1});
+Item.createItem("item_helm_light", "helm light", {name: "item_helm_light", meta: 0}, {stack: 1});
+Item.createItem("item_helm_obsidian", "helm obsidian", {name: "item_helm_obsidian", meta: 0}, {stack: 1});
+Item.createItem("item_helm_quartz", "helm quartz", {name: "item_helm_quartz", meta: 0}, {stack: 1});
+
+Item.createItem("item_chest_crystal_black", "chest crystal black", {name: "item_chest_crystal_black", meta: 0}, {stack: 1});
+Item.createItem("item_chest_crystal_blue", "chest crystal blue", {name: "item_chest_crystal_blue", meta: 0}, {stack: 1});
+Item.createItem("item_chest_crystal_green", "chest crystal green", {name: "item_chest_crystal_green", meta: 0}, {stack: 1});
+Item.createItem("item_chest_crystal_light_blue", "chest crystal light blue", {name: "item_chest_crystal_light_blue", meta: 0}, {stack: 1});
+Item.createItem("item_chest_crystal_red", "chest crystal red", {name: "item_chest_crystal_red", meta: 0}, {stack: 1});
+Item.createItem("item_chest_crystal_white", "chest crystal white", {name: "item_chest_crystal_white", meta: 0}, {stack: 1});
+Item.createItem("item_chest_emerald", "chest emerald", {name: "item_chest_emerald", meta: 0}, {stack: 1});
+Item.createItem("item_chest_light", "chest light", {name: "item_chest_light", meta: 0}, {stack: 1});
+Item.createItem("item_chest_obsidian", "chest obsidian", {name: "item_chest_obsidian", meta: 0}, {stack: 1});
+Item.createItem("item_chest_quartz", "chest quartz", {name: "item_chest_quartz", meta: 0}, {stack: 1});
+
+Item.createItem("item_pants_crystal_black", "pants crystal black", {name: "item_pants_crystal_black", meta: 0}, {stack: 1});
+Item.createItem("item_pants_crystal_blue", "pants crystal blue", {name: "item_pants_crystal_blue", meta: 0}, {stack: 1});
+Item.createItem("item_pants_crystal_green", "pants crystal green", {name: "item_pants_crystal_green", meta: 0}, {stack: 1});
+Item.createItem("item_pants_crystal_light_blue", "pants crystal light blue", {name: "item_pants_crystal_light_blue", meta: 0}, {stack: 1});
+Item.createItem("item_pants_crystal_red", "pants crystal red", {name: "item_pants_crystal_red", meta: 0}, {stack: 1});
+Item.createItem("item_pants_crystal_white", "pants crystal white", {name: "item_pants_crystal_white", meta: 0}, {stack: 1});
+Item.createItem("item_pants_emerald", "pants emerald", {name: "item_pants_emerald", meta: 0}, {stack: 1});
+Item.createItem("item_pants_light", "pants light", {name: "item_pants_light", meta: 0}, {stack: 1});
+Item.createItem("item_pants_obsidian", "pants obsidian", {name: "item_pants_obsidian", meta: 0}, {stack: 1});
+Item.createItem("item_pants_quartz", "pants quartz", {name: "item_pants_quartz", meta: 0}, {stack: 1});
+
+Item.createItem("item_boots_crystal_black", "boots crystal black", {name: "item_boots_crystal_black", meta: 0}, {stack: 1});
+Item.createItem("item_boots_crystal_blue", "boots crystal blue", {name: "item_boots_crystal_blue", meta: 0}, {stack: 1});
+Item.createItem("item_boots_crystal_green", "boots crystal green", {name: "item_boots_crystal_green", meta: 0}, {stack: 1});
+Item.createItem("item_boots_crystal_light_blue", "boots crystal light blue", {name: "item_boots_crystal_light_blue", meta: 0}, {stack: 1});
+Item.createItem("item_boots_crystal_red", "boots crystal red", {name: "item_boots_crystal_red", meta: 0}, {stack: 1});
+Item.createItem("item_boots_crystal_white", "boots crystal white", {name: "item_boots_crystal_white", meta: 0}, {stack: 1});
+Item.createItem("item_boots_emerald", "boots emerald", {name: "item_boots_emerald", meta: 0}, {stack: 1});
+Item.createItem("item_boots_light", "boots light", {name: "item_boots_light", meta: 0}, {stack: 1});
+Item.createItem("item_boots_obsidian", "boots obsidian", {name: "item_boots_obsidian", meta: 0}, {stack: 1});
+Item.createItem("item_boots_quartz", "boots quartz", {name: "item_boots_quartz", meta: 0}, {stack: 1});

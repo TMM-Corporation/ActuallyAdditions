@@ -1,0 +1,17 @@
+var render = new ICRender.Model();
+var model = BlockRenderer.createModel();
+	model.addBox(1/16, 1/16, 0/16, 15/16, 15/16, 15/16, [["block_atomic_reconstructor", 0]]);
+	model.addBox(0/16, 0/16, 15/16, 16/16, 1/16, 16/16, [["block_atomic_reconstructor_front", 0]]);
+	model.addBox(0/16, 0/16, 0/16, 16/16, 1/16, 1/16, [["block_atomic_reconstructor_front", 0]]);
+	model.addBox(15/16, 0/16, 1/16, 16/16, 1/16, 15/16, [["block_atomic_reconstructor_front", 0]]);
+	model.addBox(0/16, 0/16, 1/16, 1/16, 1/16, 15/16, [["block_atomic_reconstructor_front", 0]]);
+	model.addBox(0/16, 15/16, 15/16, 16/16, 16/16, 16/16, [["block_atomic_reconstructor_front", 0]]);
+	model.addBox(0/16, 15/16, 0/16, 16/16, 16/16, 1/16, [["block_atomic_reconstructor_front", 0]]);
+	model.addBox(15/16, 15/16, 1/16, 16/16, 16/16, 15/16, [["block_atomic_reconstructor_front", 0]]);
+	model.addBox(0/16, 15/16, 1/16, 1/16, 16/16, 15/16, [["block_atomic_reconstructor_front", 0]]);
+	model.addBox(0/16, 1/16, 0/16, 1/16, 15/16, 1/16, [["block_atomic_reconstructor_front", 0]]);
+	model.addBox(15/16, 1/16, 0/16, 16/16, 15/16, 1/16, [["block_atomic_reconstructor_front", 0]]);
+	model.addBox(15/16, 1/16, 15/16, 16/16, 15/16, 16/16, [["block_atomic_reconstructor_front", 0]]);
+	model.addBox(0/16, 1/16, 15/16, 1/16, 15/16, 16/16, [["block_atomic_reconstructor_front", 0]]);
+render.addEntry(model);
+BlockRenderer.setStaticICRender(BlockID.block_atomic_reconstructor, 0, render);

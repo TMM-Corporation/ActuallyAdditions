@@ -1,0 +1,16 @@
+var render = new ICRender.Model();
+var model = BlockRenderer.createModel();
+	model.addBox(13/16, 0/16, 0/16, 16/16, 16/16, 3/16, [["block_canola_press", 0]]);
+	model.addBox(0/16, 0/16, 0/16, 3/16, 16/16, 3/16, [["block_canola_press", 0]]);
+	model.addBox(0/16, 0/16, 13/16, 3/16, 16/16, 16/16, [["block_canola_press", 0]]);
+	model.addBox(13/16, 0/16, 13/16, 16/16, 16/16, 16/16, [["block_canola_press", 0]]);
+	model.addBox(1/16, 1/16, 1/16, 15/16, 7/16, 15/16, [["block_canola_press", 0]]);
+	model.addBox(1/16, 9/16, 1/16, 15/16, 15/16, 15/16, [["block_canola_press", 0]]);
+	model.addBox(2/16, 7/16, 2/16, 14/16, 9/16, 14/16, [["block_canola_press", 0]]);
+	model.addBox(13/16, 0/16, 3/16, 15/16, 1/16, 13/16, [["block_canola_press_top", 0]]);
+	model.addBox(3/16, 0/16, 2/16, 13/16, 1/16, 14/16, [["block_canola_press_top", 0]]);
+	model.addBox(1/16, 0/16, 3/16, 3/16, 1/16, 13/16, [["block_canola_press_top", 0]]);
+	model.addBox(3/16, 0/16, 1/16, 13/16, 1/16, 2/16, [["block_canola_press_top", 0]]);
+	model.addBox(3/16, 0/16, 14/16, 13/16, 1/16, 15/16, [["block_canola_press_top", 0]]);
+render.addEntry(model);
+BlockRenderer.setStaticICRender(BlockID.block_canola_press, 0, render);
